@@ -10,4 +10,4 @@ RHadoop is a project that integrates *Hadoop* functionality into the statistical
 ### Algorithms
 
 - *word_count.R*: To count the number of words in a text file.
-- *kmeans.R*: The implementation of a clustering algorithm "K means".
+- *k_means.R*: The implementation of a clustering algorithm "K means".
