@@ -1,19 +1,18 @@
-RHadoop Simple Implementations
-=================
+# RHadoop Simple Implementations
 
-### Description
+## Introduction
 
-The simple codes are developed to implement some algorithms in RHadoop for practice.
+The simple K-mean and word count algorithms are implemented in RHadoop.
 
-RHadoop is a project that integrates *Hadoop* functionality into the statistical language *R*.
+RHadoop is a framework that integrates *Hadoop* functionality into the statistical language *R*.
 
-### History
+## History
 
-The project was originally assigned in a project course held by corporation Trend Micro.
+The project was assigned in a cloud project course, which was held by Trend Micro.
 
-At that time Github account *xxxxxppppp123* was used to upload the project.
+I moved this project code from https://github.com/xxxxxppppp123/RHadoop, because the account is never used now.
 
-### Algorithms
+## Algorithms
 
 - *word_count.R*: To count the number of words in a text file.
 - *k_means.R*: The implementation of a clustering algorithm "K means".
