@@ -1,4 +1,4 @@
-# RHadoop Simple Implementations
+# RHadoop Project: K-means and Word Count
 
 ## Introduction
 
